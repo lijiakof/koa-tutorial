@@ -1,0 +1,12 @@
+{
+    "name": "koademo",
+    "version": "0.0.1",
+    "dependencies": {
+        "koa": "^2.6.2",
+        "koa-router": "^7.4.0",
+        "mongoose": "^5.4.0",
+        "mysql": "^2.16.0",
+        "mysql2": "^1.6.4",
+        "sequelize": "^4.42.0"
+    }
+}
